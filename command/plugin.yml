@@ -1,0 +1,8 @@
+main: com.jaime.commandplugin.command
+name: command
+version: 1.0
+description: Nice command 
+commands:
+  Hello:
+    aliases: [hey]
+    description: Good command heath
